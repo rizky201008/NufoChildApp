@@ -7,11 +7,11 @@
 Aplikasi pemenuhan nutrisi harian anak-anak dengan teknologi Cloud Computing yang modern dan teknologi Machine Learning yang sangat populer.
 
 <div align="center">
-  <img src="![nufo1](https://github.com/rizky201008/NufoChildApp/assets/128448072/28d4fff9-f3df-434c-ba5d-845a37114fda)" alt="Image 1" width="200">
-  <img src="![nufo2](https://github.com/rizky201008/NufoChildApp/assets/128448072/633099c9-b59c-40d6-951c-cf74cea7d242)" alt="Image 2" width="200">
-  <img src="![nufo3](https://github.com/rizky201008/NufoChildApp/assets/128448072/355f538a-5254-4f6f-9b35-d6f27ab7a8a8)" alt="Image 3" width="200">
-  <img src="![nufo4](https://github.com/rizky201008/NufoChildApp/assets/128448072/ccd84981-ec6d-4b57-9a53-682ae9073892)" alt="Image 4" width="200">
-  <img src="![nufo5](https://github.com/rizky201008/NufoChildApp/assets/128448072/f729e971-614e-44ae-98d0-0e32c509a7f6)" alt="Image 5" width="200">
+  <img src="https://github.com/rizky201008/NufoChildApp/assets/128448072/28d4fff9-f3df-434c-ba5d-845a37114fda" alt="Image 1" width="200">
+  <img src="https://github.com/rizky201008/NufoChildApp/assets/128448072/633099c9-b59c-40d6-951c-cf74cea7d242" alt="Image 2" width="200">
+  <img src="https://github.com/rizky201008/NufoChildApp/assets/128448072/355f538a-5254-4f6f-9b35-d6f27ab7a8a8" alt="Image 3" width="200">
+  <img src="https://github.com/rizky201008/NufoChildApp/assets/128448072/ccd84981-ec6d-4b57-9a53-682ae9073892" alt="Image 4" width="200">
+  <img src="https://github.com/rizky201008/NufoChildApp/assets/128448072/f729e971-614e-44ae-98d0-0e32c509a7f6" alt="Image 5" width="200">
 </div>
 
 ## Our member:
