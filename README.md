@@ -10,9 +10,9 @@ Project repositories :
 
 Contributors :
 
- 1. @asyuuchan
- 2. @Brianhabib252
- 3. @Killerz1724
- 4. @nalendrakayana
- 5. @yasfaa
- 6. @rizky201008
+ 1. [@asyuuchan](https://github.com/asyuuchan)
+ 2. [@Brianhabib252](https://github.com/Brianhabib252)
+ 3. [@Killerz1724](https://github.com/Killerz1724)
+ 4. [@nalendrakayana](https://github.com/nalendrakayana)
+ 5. [@yasfaa](https://github.com/yasfaa)
+ 6. [@rizky201008](https://github.com/rizky201008)
