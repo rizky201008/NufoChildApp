@@ -1,4 +1,7 @@
 # Nufochild
+
+![Nufochild Profil](https://github.com/rizky201008/NufoChildApp/assets/128448072/80d9a933-991c-42cf-b1e1-a7262c29659e)
+
 Aplikasi pemenuhan nutrisi harian anak-anak dengan teknologi Cloud Computing yang modern dan teknologi Machine Learning yang sangat populer.
 
 Project repositories :
