@@ -19,7 +19,7 @@ Aplikasi pemenuhan nutrisi harian anak-anak dengan teknologi Cloud Computing yan
 Documentation of our project is available on the readme.md file in our team repository based on their learning path
 ## Mobile Development Repository (Nufochild App)
 https://github.com/rizky201008/Nufochild.git
-## Cloud Computing Repository (API & Website)
+## Cloud Computing Repository (API & Model deployment)
 https://github.com/Brianhabib252/Capstone.git 
 <br />
 https://github.com/yasfaa/fast-api.git
